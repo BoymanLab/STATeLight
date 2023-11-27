@@ -9,4 +9,4 @@ Choose the corresponding files of intensity images.
 
 # Output
 
-Run the macro. This will open a dialog asking where you want to set the lower and upper threshold for visualization (lower=everything below this ration is black, upper = range of ratio that will be display). AoverD and DoverA images will be saved in your designated folder. Images that were opened for the analysis will be automatically closed. 
+Run the macro. This will open a dialog asking where you want to set the lower and upper threshold for visualization (lower=everything below this ration is black, upper = range of ratio that will be display). AoverD and DoverA images will be saved in your designated output folder. Images that were opened for the analysis will be automatically closed. 
